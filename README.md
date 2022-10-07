@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<p align="left"><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
+<p><img align="right" style="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="cat_dev" /></p>
+
 
 **vinghost/vinghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
