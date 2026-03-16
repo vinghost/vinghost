@@ -1,7 +1,7 @@
 ### 👋 helloworld VINAYAK PAWAR here!
 
 
-![cat]([https://tenor.com/vLvE.gif])
+![cat](https://tenor.com/vLvE.gif)
 
 
 
